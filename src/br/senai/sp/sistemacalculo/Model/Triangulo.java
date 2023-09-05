@@ -4,8 +4,8 @@ public class Triangulo {
 
     public double altura;
     public double base;
-    public double calcularArea;
-    public double calcularPerimetro;
+//    public double calcularArea;
+//    public double calcularPerimetro;
     public double resultadoArea;
     public double resultadoPerimetro;
 
